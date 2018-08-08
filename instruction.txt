@@ -1,0 +1,2 @@
+space to shoot 
+use arrow key to move left and right
